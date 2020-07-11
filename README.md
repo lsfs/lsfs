@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Computer Engineering student. Interested in anything that runs code especially back-end development and IoT
+Computer Engineering student. Interested in solving problems with software. Currently diving into back-end development and IoT
 
 
 <!--
