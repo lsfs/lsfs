@@ -3,7 +3,7 @@
 I'm a Computer Engineering student from Brazil currently diving into software architecture and network programming.\
 I like to develop things using Java, Python and more recently Rust.\
 I have Windows as my main OS even though i've used only Linux for almost 12 years (and still do through WSL).\
-I'm also interested in topics related to audio such as filters, speech cloning and recognition.\
+I'm also interested in topics related to audio such as filters, speech cloning and recognition.
 
 
 
