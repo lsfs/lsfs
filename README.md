@@ -1,10 +1,7 @@
 ### Hello 👋
-
-I'm a Computer Engineering student from Brazil.\
-I enjoy developing things using Java, Python and more recently Rust.\
-I have Linux as my main OS on my laptop and Windows on my dekstop, even though i've used only Linux for almost 12 years.\
-I do like programming, microcontrollers and networking.
-I'm also interested in topics related to audio and image processing.
+I'm a brazilain software developer working for the Mato Grosso's secreteriat of revenue and currently in my final year at IFMT where I study computer engineering.\
+I enjoy developing things using Java, Kotlin and more recently Rust.\
+I use this github account mainly to share things I've been researching or practicing these days and my personal projects.
 
 
 
