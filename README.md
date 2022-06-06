@@ -1,5 +1,5 @@
 ### Hello 👋
-I'm a brazilian software developer working at [Mobiauto](https://www.mobiauto.com.br) and currently in my final year at IFMT where I study computer engineering.\
+I'm a brazilian software developer working at [Compass.uol](https://compass.uol) and currently in my final year at IFMT where I study computer engineering.\
 I enjoy developing things using Java, Kotlin and more recently Rust.\
 I use this github account mainly to share things I've been researching or practicing these days and my personal projects.
 
