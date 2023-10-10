@@ -1,5 +1,5 @@
 ### Hello 👋
-I'm a brazilian software developer working at [Compass.uol](https://compass.uol) and currently in my final year at IFMT where I study computer engineering.\
+I'm a brazilian computer engineer and 5-year-experienced developer working with Java, angular, microsservices and currently  at [TotemTi](https://www.totemti.com.br).\
 I enjoy developing things using Java, Kotlin and more recently Rust.\
 I use this github account mainly to share things I've been researching or practicing these days and my personal projects.
 
